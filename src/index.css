@@ -52,7 +52,7 @@ shadow.
 }
 
 /*
-This sets the display portion to have a dark background and light text, with some
+This sets the display portion to have a light background and dark text, with some
 padding and aligns the text to the right emulating a calculator. 
 */
 .display {
